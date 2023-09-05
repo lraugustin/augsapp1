@@ -40,6 +40,7 @@ app_ui = ui.page_navbar(
         ui.nav("Application 1"),
         ui.nav("Application 2"),
         title="Programming Language App",
+        window_title="Test App",
         bg="#0064a6",
         inverse=True,
         footer=ui.div(
